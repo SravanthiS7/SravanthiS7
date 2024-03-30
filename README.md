@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Sravanthi 🙋‍♀️👋
+Welcome to Focusing on new things
 
+Software Student,content creator👩‍💻🪄 
 <!--
 **SravanthiS7/SravanthiS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me :
+
+I am a Machine Learning student from Software student
+- 🔭 I’m currently working as a Software Enginering Student
+- 🌱 Exploring New things to world
+- 👯 I’m looking to collaborate with anyone on any project
+- 🤔 I’m looking for help with  focusing something about world
+- 💬 Ask me about anything to do 
+- 📫 How to reach me:
+🐾@sravanthinallakonda@gmail.com
+🦋https://github.com/SravanthiS7
+👀https://www.linkedin.com/in/sravanthi-nallagonda-8b3223289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
