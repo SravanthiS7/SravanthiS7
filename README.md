@@ -2,7 +2,6 @@
 Welcome to Focusing on new things
 
 Software Student,content creator👩‍💻🪄 
-<!--
 
 About Me :
 
