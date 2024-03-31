@@ -16,6 +16,10 @@ I am a Machine Learning student from Software student
 
 - 📫 How to reach me:
 🐾@sravanthinallakonda@gmail.com
+
+
 🦋https://github.com/SravanthiS7
+
+
 👀https://www.linkedin.com/in/sravanthi-nallagonda-8b3223289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
