@@ -5,17 +5,17 @@ Software Student,content creator👩‍💻🪄
 
 About Me :
 
-I am a Machine Learning student from Software student
-- 🔭 I’m currently working as a Software Enginering Student
-- 🌱 Exploring New things to world
-- 👯 I’m looking to collaborate with anyone on any project
-- 🤔 I’m looking for help with  focusing something about world
-- 💬 Ask me about anything to do 
+I am a AI student from Software student
+🎓 Final Year B.Tech Student | 💻 Aspiring Software Developer
+🚀 Passionate about Web Development | Machine Learning | Data Science
+🔭 Currently working on academic & personal tech projects
+🌱 Learning: Python | JavaScript | React | Flask | MySQL
+📌 Projects: ML models, Web apps, and Full-stack development
 
 
 
 - 📫 How to reach me:
-🐾@sravanthinallakonda@gmail.com
+🐾@sravanthinallagonda5@gmail.com
 
 
 🦋https://github.com/SravanthiS7
