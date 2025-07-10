@@ -6,11 +6,11 @@ Software Student,content creator👩‍💻🪄
 About Me :
 
 I am a AI student from Software student
-🎓 Final Year B.Tech Student | 💻 Aspiring Software Developer
-🚀 Passionate about Web Development | Machine Learning | Data Science
-🔭 Currently working on academic & personal tech projects
-🌱 Learning: Python | JavaScript | React | Flask | MySQL
-📌 Projects: ML models, Web apps, and Full-stack development
+-🎓 Final Year B.Tech Student | 💻 Aspiring Software Developer
+-🚀 Passionate about Web Development | Machine Learning | Data Science
+-🔭 Currently working on academic & personal tech projects
+-🌱 Learning: Python | JavaScript | React | Flask | MySQL
+-📌 Projects: ML models, Web apps, and Full-stack development
 
 
 
